@@ -1,3 +1,6 @@
 print "Nombre: Angel Phillip Aceituno Rodas"
 print "Carnet: 1662624"
 print "DPI: 4021886320922"
+print "Nombre de la universidad: Rafael Landivar"
+print "Ubicacion: Quetzaltenango"
+print "Cede: Cede central"
