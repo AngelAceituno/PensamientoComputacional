@@ -1,1 +1,3 @@
-print "Nombre: Angel Phillip Aceituno Rodas \n Carnet: 1662624 \n DPI: 4021886320922";
+print "Nombre: Angel Phillip Aceituno Rodas"
+print "Carnet: 1662624"
+print "DPI: 4021886320922"
